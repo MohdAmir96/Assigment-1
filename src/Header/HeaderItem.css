@@ -1,0 +1,20 @@
+.header-card{
+    position: relative;
+    text-align: center;
+    padding: 8px;
+    height: 55%;
+    width: 20vw;
+    background-color: white;
+    overflow: hidden;
+}
+img{
+    width: 95%;
+    height: 75%;
+    /* position: absolute; */
+    /* bottom: 10px; */
+}
+.Header-card-offer{
+    margin-top: 10px;
+    color: darkcyan;
+    cursor: pointer;
+}

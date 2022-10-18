@@ -1,0 +1,21 @@
+.recommendation-container{
+    height: 30vh;
+    margin-top: 20px ;
+    padding: 40px;
+    
+}
+
+.recommendation-header{
+    font-size: 32px;
+    font-weight: 600;
+}
+.recommendation-list {
+    margin-top: -28px;
+    display: flex;
+    overflow-x: scroll;
+    grid-gap: 10px;
+    gap: 10px;
+}
+.item-container img {
+    width: 40%;
+}
